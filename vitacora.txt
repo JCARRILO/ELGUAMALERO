@@ -1,0 +1,93 @@
+    VITACORA: EL GUAMALERO
+    INICIO 7 DICIEMBRE 2021
+    Iniciamos retomando el curso de GIT y GITHUB para crear Repositorios del proyecto.
+    -Iniciamos aprendiendo o recordando los comandos generales para GIT.
+    Git bash = Es el entorno de GIT donde se abre una consola dedicada a sus procesos.
+    pwd = Es un comando de GIT que te permite ver el directorio donde te encuentras.
+    cd (Change Directory) = Me permite cambiar el directorio en donde me encuentre sin importar la profundidad en donde se encuentre.
+    ls (Listar elementos) = Si escribes ls te muestra todos los elementos del directorio en donde te encuentras.
+    ls -al = Me muestra git commit todos los archivos ocultos.
+    ls -l = Me me muestra los archivos .algo
+    clear = limpia la consola pero no te saca del directorio
+    ctrl + l = Tambien limpia la consola sin sacarte del Directorio
+    mnt (En linux) = Te lleva a los discos duros. 
+    cd U + tab= Me muestra todos los directorios que inician por U y me autocompleta el comando.
+    cd .. = Me devuelve al directorio anterior
+    mkdir (Make Directory) = Comando para crear un directorio en la ruta en donde te encuentras.
+    mkdir + nombre = Crea un directorio con el nombre
+    touch = Creamos archivos dentro del directorio en donde nos econtremos.
+    cat = Muestra el contenido rapido, un abre bocas del contenido de ese documento.
+    history = Para listar todos los comandos que se han escrito mientras esta GitBash abierto. Cada comando se enlista con un numero, si desean invocar ese comando se escribe simplemente "!"+Numero del comando en la lista.
+    rm (El comando más peligroso de todos) = Remove es peligroso porque escribirlo en el directorio incorrecto, borrara el contenido de dicho directorio o de sus archivos.
+    "comando" + --help = Les muestra el detalle o la explicación para que sirve cada comando.
+    code = VSCODE tiene git instado por defecto, si nos encontramos en Gitbash podemos escribir este código y nos el EDITOR DE TEXTO.
+    git status = Me dice el estado actual del proyecto
+    git add "Algun archivo" = Hace que Git se quede viendo que cambios sufre el archivo.
+    git rm + "Archivo" = Preparamos a GIT para borrar un cambio en un archivo sin borrar ese cambio de estado. Aún se ecnuentra en la RAM.
+    git rm --cached + "archivo" = Le dice a GIT que borre ese estado en el archivo, o confirmamos a la RAM que libere ese espacio.
+    git commit = Agregar este a GITBASK envía al repositorio los cambios de estado de los archivos que esta observando, siendo esto una mala práctica, porqué hay que enviarlo con un mensaje que indique de que va dicho commit.
+    git commit -m + "mensaje" = Es la manera correcta o de buenas prácticas para crear un commit en el GITBASH que se subira al Repositorio.
+    git config = Me muetra toda la información referente a GIT para configurarla a mi gusto o para consulta de comandos.
+    git config --list = nos muestra el seteo actual de GIT.
+    git config --list --show-origin = Nos muestra a donde esta guardado GIT.
+    - = Significa que solo vas a acceder a un comando. 
+    -- = Significa que vas a modificar algo.
+    git config --global = Nos permite modificar globalmente un comando. 
+    git config --global user.name "Jota Carrillo" = Si es por primera vez, dejamos atrás el nombre de tu maquina y lo sustituye por tu nombre o pseudonimo dentro de GIT.
+    STAGING AREA = Es el espacio de memoria RAM que usa git para precargar cambios y se puedan subir posteriormente al Repositorio.
+    git add = Agrega el estado del archivo al STAGING AREA, sin agregarlo al repositorio.
+    git add . = Me agrega todos los cambios adentro del Repositorio.
+    git log + "archivo" = me muestra los cambios referentes a commits hechos.
+    git show = Te muestra los cambios en un archivo
+    git diff "nombre de archivo" = Permite comparar los cambios de una version a otra
+    git reset + "numero de commit" = Permite volver al archivo a una versión anterior
+    git reset + "numero de commit" + --hard = Todo vuelve a una versión anterior (Cuidado extremo al usarlo porque resetea a estado anterior TODOS LOS ARCHIVOS)
+    git reset + "numero de commit" + --soft = mantiene los cambios en STAGING AREA pero sin devolverlos a un estado anterior.
+    git checkout + "Numero de commit" = Observamos cual era el estado de ese archivo en ese commit SIN VUELTA ATRAS. 
+    git push = Es el comando que me deja enviar el SERVER REMOTO los commits del día.
+    git clone url = Me permite traer una versión del repositorio de un Servidor Remoto, para ver que commits historicos se han hecho y poder trabajar sobre el.
+    git fetch = Si alguien hace un push a un repositorio en un server remoto,
+    y yo quiero traer esos cambios sin descargar a mi escritorio todo el repositorio, debo usar este comando.
+    git merge = Si quiero unir los cambios que otros han hecho a un repositorio en un server remoto (fetch) con mi codigo, uso merge para lograrlo.
+    git pull = me copia el repositorio local, la base de cambios y copia el directorio (NO SE HA ENTENDIDO).
+    **************************************************************
+    Se creo el repositorio de destino:
+    https://github.com/Luiskramirezl/ELGUAMALERO
+    Dueño del repositorio:
+    https://github.com/Luiskramirezl
+    Se clono el repositorio al directorio de trabajo
+    git commit -a = Sirve para hacer commit siempre y cuando no existan archivos nuevos dentro del repositorio.
+    git log --stat = Muestra los cambios línea a línea de cada commit y su peso en bytes.
+    git remote -v = nos muestra si Branch main nos deja hacer pull y fetch
+    git push origin master = nos deja subir los commits al master, en caso de dar error, es porque no se le ha dado pull a las dos ramas.
+    git pull origin master = Nos permite unir las dos ramas y sus cambios.
+    git rm --cached = Le da estado unstage al archivo en la staging area.
+    La razón por la que no deja hacer PUSH es porqué le pedí a Luiskramirezl que creara un repositorio sin archivos dentro. Por alguna razón Github o Git arroja error 403.
+    $ git push -u origin master
+    info: please complete authentication in your browser...
+    remote: Permission to Luiskramirezl/ELGUAMALERO.git denied to JCARRILO.
+    fatal: unable to access 'https://github.com/Luiskramirezl/ELGUAMALERO/  ': The requested URL returned error: 403
+
+    **************************************************************
+    CORRECCIÓN DE ERRORES
+    Intente dar el primer Push al repositorio dando este error: failed to push some refs to 'https://github.com/Luiskramirezl/ELGUAMALERO' 
+    Seguido intente dar un Pull (Unir rama main con rama master) dando error: fatal: couldn't find remote ref master
+    On branch main
+    Consulte el Git Status arrojando el siguiente mensaje y posible solución: Your branch is based on 'origin/main', but the upstream is gone.
+    (use "git branch --unset-upstream" to fixup)
+    Solución: EN este tutorial https://youtu.be/cCIAO9xkius nos enseña que la manera correcta de hacer push desde una rama main, es primero subir cambios de archivo al staging area y después hacer el commit. Lo siguiente es escribir el comando: 
+    git push origin main = La manera correcta de hacer push a un repositorio externo cuando somos rama main.
+    Viendo la clase sobre configurar multiples colaboradores en un repositorio, comprendo que debí sugerir o solicitar a Luis carlos que me agregue como colaborador, identifico que es mi segundo error.
+    **************************************************************
+    TAREAS PENDIENTES
+    1. Pide que te agreguen como colaborador del Repositorio.
+    2. Conversen sobre las posibles ramas que va a tener el proyecto.
+    **************************************************************
+    SALIR DEL BUG DE SHOW
+    ESC + SHIFT + ZZ
+    RUTA DE DIRECTORIO
+    /c/users/socie/OneDrive/desarrolloweb/elguamalero
+    C:/Users/socie/OneDrive/DESARROLLOWEB/ELGUAMALERO
+
+    Sugerencias De PLUGINS:
+    https://www.codestream.com/

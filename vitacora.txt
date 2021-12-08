@@ -80,14 +80,12 @@
     Viendo la clase sobre configurar multiples colaboradores en un repositorio, comprendo que debí sugerir o solicitar a Luis carlos que me agregue como colaborador, identifico que es mi segundo error.
     **************************************************************
     TAREAS PENDIENTES
-    1. Pide que te agreguen como colaborador del Repositorio.
-    2. Conversen sobre las posibles ramas que va a tener el proyecto.
+    1. 
     **************************************************************
     SALIR DEL BUG DE SHOW
     ESC + SHIFT + ZZ
     RUTA DE DIRECTORIO
-    /c/users/socie/OneDrive/desarrolloweb/elguamalero
-    C:/Users/socie/OneDrive/DESARROLLOWEB/ELGUAMALERO
+    /g/WEBDESIGN/elguamalero
 
     Sugerencias De PLUGINS:
     https://www.codestream.com/

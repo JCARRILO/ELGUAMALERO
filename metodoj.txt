@@ -1,0 +1,26 @@
+1. FASE DE ANÁLISIS DEL PROYECTO
+(Responde a estas preguntas)
+¿Se necesita realmente el sitio Web?
+-Si se necesita porqué con su contenido responde a la demanda de información de propi@/e/s y curios@/e/s.
+¿Para qué se necesita el sitio Web?
+Ofrece contenidos academicos y referencias sobre El Vallenato.
+¿Qué es lo que buscarán los usuarios en el sitio Web?
+Contenido de calidad pués cada articulo conlleva una investigación y ofrece información verificada y fuentes confiables y referenciales.
+¿Qué imagen se quiere proyectar con el sitio Web a los usuarios?
+Una imagen alejada del clicbait, de las fakenews y de la monetización por publicidad In Page.
+¿Qué servicios interactivos se integrarán a través del sitio Web?
+La pagina es Informativa y no ofrece servicios distintos al de informar a la comunidad.
+¿Con qué recursos se cuenta para el desarrollo del sitio Web?
+La pagina es un proyecto de grado, cuyo dominio y host, fueron ganados en concurso.  
+¿Cuánto tiempo debe ser invertido en el desarrollo del sitio Web?
+Según la metodología diseñada no debe invertirse mas de cuatro (4) horas diarias, ojala 2 informacionales y de inspiración y otras dos (2) de coding.
+¿Qué impacto causará el sitio Web en los usuarios?
+El conseguir una web temática accesible, inclusiva y adaptativa a cualesquier dispositivo desde donde se consuma su contenido.
+2. SELECCIÓN DE OBJETIVOS
+Definir los usuarios (Construye el BUYER PERSONA para este sitio web)
+Lo que los usuarios esperan de la visita (Información verificada, semantica, estructurada)
+Qué se pretende comunicar a través del sitio Web. (Un entorno academico no asociado a base de datos cientificos)
+BUYER PERSONA
+Se cosntruyeron tres perfiles y están documentos en archivo binario.
+
+

@@ -1,5 +1,7 @@
     VITACORA: EL GUAMALERO
-    INICIO 7 DICIEMBRE 2021
+    *****************
+    DICIEMBRE 7 2021
+    *****************
     Iniciamos retomando el curso de GIT y GITHUB para crear Repositorios del proyecto.
     -Iniciamos aprendiendo o recordando los comandos generales para GIT.
     Git bash = Es el entorno de GIT donde se abre una consola dedicada a sus procesos.
@@ -50,6 +52,10 @@
     y yo quiero traer esos cambios sin descargar a mi escritorio todo el repositorio, debo usar este comando.
     git merge = Si quiero unir los cambios que otros han hecho a un repositorio en un server remoto (fetch) con mi codigo, uso merge para lograrlo.
     git pull = me copia el repositorio local, la base de cambios y copia el directorio (NO SE HA ENTENDIDO).
+    *****************
+    DICIEMBRE 9 2021
+    *****************
+    El día de trabajo inicia con la idea de buscar inspiración para una metodología a implementar en el desarrollo de proyectos web. Me hace ilusión crear una propia. 
     **************************************************************
     Se creo el repositorio de destino:
     https://github.com/Luiskramirezl/ELGUAMALERO
@@ -68,7 +74,7 @@
     remote: Permission to Luiskramirezl/ELGUAMALERO.git denied to JCARRILO.
     fatal: unable to access 'https://github.com/Luiskramirezl/ELGUAMALERO/  ': The requested URL returned error: 403
 
-    **************************************************************
+    **********************************************************************************************
     CORRECCIÓN DE ERRORES
     Intente dar el primer Push al repositorio dando este error: failed to push some refs to 'https://github.com/Luiskramirezl/ELGUAMALERO' 
     Seguido intente dar un Pull (Unir rama main con rama master) dando error: fatal: couldn't find remote ref master
@@ -78,14 +84,29 @@
     Solución: EN este tutorial https://youtu.be/cCIAO9xkius nos enseña que la manera correcta de hacer push desde una rama main, es primero subir cambios de archivo al staging area y después hacer el commit. Lo siguiente es escribir el comando: 
     git push origin main = La manera correcta de hacer push a un repositorio externo cuando somos rama main.
     Viendo la clase sobre configurar multiples colaboradores en un repositorio, comprendo que debí sugerir o solicitar a Luis carlos que me agregue como colaborador, identifico que es mi segundo error.
-    **************************************************************
+    *****************
+    DICIEMBRE 9 2021
+    *****************
+
+    *************************************************************************************************
     TAREAS PENDIENTES
-    1. Necesito entender como hacer Git Push y Git Pull desde consola sin usar VSCODE
+    1. Necesito entender como hacer Git Push y Git Pull desde consola sin usar VSCODE(0%)
+    *****************
+    DICIEMBRE 9 2021
+    *****************
+    1. Genera Metodología paso a paso para crear proyecto web. Usemos las 4 horas
+    
     **************************************************************
+    ATAJOS
+    ******
     SALIR DEL BUG DE SHOW
     ESC + SHIFT + ZZ
     RUTA DE DIRECTORIO
     /g/WEBDESIGN/elguamalero
-
-    Sugerencias De PLUGINS:
+    ***********************
+    SUGERENCIAS:
     https://www.codestream.com/
+    Inspiración para la metodolgía:
+    https://disenowebakus.net/metodologia-para-la-creacion-de-sitios-web.php
+    Buyer Persona:
+    https://www.hubspot.es/make-my-persona

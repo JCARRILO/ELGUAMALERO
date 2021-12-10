@@ -95,7 +95,7 @@
     DICIEMBRE 9 2021
     *****************
     1. Genera Metodología paso a paso para crear proyecto web. Usemos las 4 horas
-    
+    2. Analiza la implementación de Codestream para agilizar 
     **************************************************************
     ATAJOS
     ******
@@ -106,7 +106,10 @@
     ***********************
     SUGERENCIAS:
     https://www.codestream.com/
+    ****************************
+    REFERENCIAS: 
     Inspiración para la metodolgía:
     https://disenowebakus.net/metodologia-para-la-creacion-de-sitios-web.php
     Buyer Persona:
     https://www.hubspot.es/make-my-persona
+    

@@ -95,7 +95,7 @@
     DICIEMBRE 9 2021
     *****************
     1. Genera Metodología paso a paso para crear proyecto web. Usemos las 4 horas
-    2. Analiza la implementación de Codestream para agilizar 
+    2. Analiza la implementación de Codestream para agilizar. COnclusión: No es viable el uso de este plugin para 1 solo miembro de equipo. 
     **************************************************************
     ATAJOS
     ******

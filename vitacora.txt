@@ -112,4 +112,6 @@
     https://disenowebakus.net/metodologia-para-la-creacion-de-sitios-web.php
     Buyer Persona:
     https://www.hubspot.es/make-my-persona
+    Agregar Git Bash a VS CODE:
+    https://www.youtube.com/watch?v=Yn-ANAtDQ_0
     

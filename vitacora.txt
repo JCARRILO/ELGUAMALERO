@@ -94,8 +94,13 @@
     *****************
     DICIEMBRE 9 2021
     *****************
-    1. Genera Metodología paso a paso para crear proyecto web. Usemos las 4 horas
+    1. Genera Metodología paso a paso para crear proyecto web. Usemos las 4 horas (100%)
     2. Analiza la implementación de Codestream para agilizar. COnclusión: No es viable el uso de este plugin para 1 solo miembro de equipo. 
+    **************************************************************
+    *****************
+    DICIEMBRE 11 2021
+    *****************
+    1. Se analizaron los assets de identidad (Imagotipo) y existe una incoherencia respecto al nombre lde proyecto con las imagenes binarias enviadas. Se paso el requerimiento de diseño de identidad al Editor y Escritor, y se recibe un si para el cambion, y procede a contratar a un diseñador. (0%)
     **************************************************************
     ATAJOS
     ******

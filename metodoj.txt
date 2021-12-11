@@ -22,5 +22,91 @@ Lo que los usuarios esperan de la visita (Información verificada, semantica, es
 Qué se pretende comunicar a través del sitio Web. (Un entorno academico no asociado a base de datos cientificos)
 BUYER PERSONA
 Se cosntruyeron tres perfiles y están documentos en archivo binario.
+LO QUE USUARIOS ESPERAN DE LA VISITA
+Luis perdomo Zuleta es un estudiante que espera encontrar referencias actuales y veridicas sobre los temas de consulta, pues que en la universidad se necesitan para los ensayos y futuros trabajos o proyectos de grado.
+Casta asunción villazon es una empresaria conocedora del negocio detrás de los festivales musicales, por esta razón tiene acceso a Autores, pensadores y exponentes de la Marca Vallenato y es improtante para ella, ser referenciada de manera adecuada en dichos escritos, o le seriamuy grato así fuese un solo articulo en donde se mencione su nombre.
+Carlos Eduardo contreras lleve decadas dedicadas a la investigación sobre el Folclor Vallenato y sabe, que encontrar articulos con datos Academicos, Semanticos y estructurados, en un portal web que no se dedique al sensacionalismo, y a donde sobre todo, pueda verificar, cada una de las fuentes que se citen en los documentos, a un click.
+LO QUE SE PRETENDE COMUNICAR
+Un aporte academico a la educación respecto al movimiento cultural y popular de la musica vallenata.
+3. SELECCIÓN DE USUARIOS
+Criterios de Diseño: Como inspiración para el desarrollo de interfaces se tomara como referentes de diseño, a las bases de datos cientificas y academicas como Scielo, entre otras. 
+Lenguajes: Inicialmente se diseña el portal para usuari@/e/s del lenguaje español.
+Estética: Teniendo en cuenta las caracteristicas de diseño modernas, empezando por ser Mobile First, Responsive Design, Modo Oscuro y Datos Estructurados.
+4. EXPECTATIVAS DE LA ORGANIZACIÓN
+El creador del proyecto busca compartir conocimiento a través de su Proyecto de Grado.
+5. FASES DE PLANIFICACIÓN
+¿Cuales son los requerimientos tecnicos para este fin?
+Para el desarrollo del proyecto se necesita un Dominio, un Servicio de Hosting. 
+¿Quienes serán los miembros del equipo?
+Luis carlos ramirez es el Editor en Jefe del contenido para el proyecto.
+Jorge Carrillo es su Colaborador como FRONTEND DEVELOPER JUNIOR.
+Seleccionar una Estructura:
+Estructura Lineal con Jerarquía o Mixta (En referencias mencionadas en VITACORA se puede consultar esquema de ilustración para este tipo de estructura)
+6. SELECCIÓN DE SOFTWARE
+Sistemas Operativos: Windows 10 y Windows 11.
+Editores para diseño web: Con conocimientos De un Developer Junior para la construcción del Producto Mínimo Viable del Proyecto. Demostrando en un portafolio que maneja Visual Studio Code, Plugins VSCODE para que el entorno de desarrollo sea Agil, llevar un Control De VErsiones, Un computador apto para digitar, conocimientos o cursos sobre Desarrollo Web en HTML y CSS, GIT y GITHUB, Edición en ilustrator, Premier, Photoshop.
+7. SELECCIÓN DE HARDWARE
+Un servicio de hosting con certificados SSL, dentro de su backend puedan alojarse archivos planos, archivos binarios, aplicaciones de javascript, conexiones a bases de datos, entre otras.
+8. SELECCIÓN DEL EQUIPO DE TRABAJO ADECUADO
+Fase de Concepción
+-Developer Junior / Editor y Escritor
+Construcción del Sitio
+-Developer Junior
+Evaluación y mantenimiento del sitio
+-Developer Junior / Editor y Escritor
+9. BENCHMARKING
+Analizar a la competencia para entender la diferenciación entre mi producto y el de ellos, además para agregarle valor, porqué siempre hay que sacrificar alguna funcionalidad para posicionar a otra por encima.
+¿Cuáles son los objetivos del sitio?
+¿Cuánto tiempo tardo en cargar?
+¿Se descargó en un orden lógico?
+¿Es un sitio Web interesante?
+¿Es de fácil uso y es cómodo navegar en él?
+¿El contenido está estructurado de manera lógica?
+¿Hay demasiados o insuficientes niveles de información?
+¿En conjunto ¿el sitio es un éxito?
+10. ESTRUCTURA DE NAVEGACIÓN
+Tendra una estructura mixta, entre navegación lineal, con botones hacia adelante o hacia atras, además de contax en una sección despues del contenido, con mas enlaces para seguir navegando en el sitio por mas tiempo y estructura jeraríca, para navegar a otras secciones con mas articulos o categorias del sitio.
+11. COSTO DE INVERSIÓN
+Tiempo:
+Dos (2) horas de Información e inspiración diarias.
+Dos (2) horas de Coding. 
+Personal
+Un Frontend Developer Junior.
+Un Editor y Escritor.
 
+Hospedaje Web
+$0
+Dominio
+$0
+Licencias en caso de necesitarse
+licencia de código de libre.
+Mantenimiento
+Lunes de mantenimiento. Una (1) Hora.
+12. BENEFICIOS A OBTENER
+Posicionamiento en Page Rank.
+Aumento de seguidores de nicho en Redes Sociales.
+Invitaciones como experto al Editor y Escritor.
+13. FASE DE CONTENIDO 
+El contenido será contenido original de texto.
+14. FASE DE DISEÑO 
+Mobile First Thinking!
+15. USABILIDAD
+Se diseñara pensando en técnicas de UI (User Interface) modernas. (Falta algo)
+16. ACCESIBILIDAD
+Se tiene contemplado que se pueda consumir el contenido desde cualesquier dispositivo, iniciando en Mobile y terminando en desktop. También se hara un diseño pensando en personas con Capacidades distintas.
+17. FASE DE PROGRAMACIÓN
+Informar que tecnologías se van a usar para la construcción del proyecto siguiendo esta recomendación:
+Los lenguajes de programación en los que se desarrollará el sitio Web (HTML Y CSS, Javascript)
+La base de datos (No aplica)
+Definir qué contenido del sitio será estático y cuál será dinámico (El contenido de la web será estático).
+Arquitectura de Tres Fases:
+Bases de datos: Para la fase inicial del proyecto no se necesita almanecar datos de usuarios antes de tener entre 50 y 100 articulos de contenido, donde ya no sea viable enlazarlos en una Card.
+Programación intermediaria: Si por volumen de contenido es necesario la implementación en el Server de programas o seteos de un experto.
+Interfaz: La interfaz debe diseñarse para los requerimientos actuales, como los on Modo oscuro y contenido adaptativo a pantallas.
+18. FASE DE TESTEO
+Se debe testear el Responsive design del sitio en distintos navegadores, vigilando principalmente si hay enlaces rotos y los tiempos de carga del sitio.
+19. FASE DE MERCADEO Y PUBLICIDAD 
+Investiga los derechos internacionales del Autor y te en cuenta:
+Todas las copias realizadas incluyen derecho de autor.
+Se anexa en el sitio los créditos de los desarrolladores, Editores y Escritores o un enlace que le permita a los usuarios contactarlos.
 

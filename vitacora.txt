@@ -114,4 +114,6 @@
     https://www.hubspot.es/make-my-persona
     Agregar Git Bash a VS CODE:
     https://www.youtube.com/watch?v=Yn-ANAtDQ_0
+    Estructura De Un Sitio Web:
+    https://coach2coach.es/estructura-sitio-web/#:~:text=mi%20libro%2C%20oiga-,La%20estructura%20de%20un%20sitio%20web%20hace%20referencia%20a%20la,experiencia%20de%20navegaci%C3%B3n%20del%20usuario.&text=No%20se%20refiere%20a%20las,algo%20visible%20a%20simple%20vista.
     

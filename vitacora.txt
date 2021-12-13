@@ -57,6 +57,12 @@
     *****************
     El día de trabajo inicia con la idea de buscar inspiración para una metodología a implementar en el desarrollo de proyectos web. Me hace ilusión crear una propia. 
     **************************************************************
+    DICIEMBRE 13 2021
+    *****************
+    Inicio con el analisis estructural y semantico del sitio SCIELO, pues es el sitio referente para la construcción de las interfaces, usabilidad, accesibilidad y que el publico de nicho, de alguna manera sienta que se encuentra en un sitio adecuado para sus consultas.
+    Descargue Adobe XD para el desarrollo de interfaces, pues es el software que por ahora entiendo o al menos lo suficiente, para generar mockups, wireframes y modelar interfaces para la pagina.
+    Identifico que se va a implementar "Material Design" de Google para el desarrollo del EL GUAMALERO, en su versión dark theme para las paginas de contenidos y versión Light para las páginas de secciones.
+     **************************************************************
     Se creo el repositorio de destino:
     https://github.com/Luiskramirezl/ELGUAMALERO
     Dueño del repositorio:
@@ -101,6 +107,10 @@
     DICIEMBRE 11 2021
     *****************
     1. Se analizaron los assets de identidad (Imagotipo) y existe una incoherencia respecto al nombre lde proyecto con las imagenes binarias enviadas. Se paso el requerimiento de diseño de identidad al Editor y Escritor, y se recibe un si para el cambion, y procede a contratar a un diseñador. (0%)
+    **************************************************************
+    DICIEMBRE 13 2021
+    *****************
+    1.Identifica una tendencia de diseño de interfaces (100%)
     **************************************************************
     ATAJOS
     ******

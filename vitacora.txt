@@ -62,6 +62,8 @@
     Inicio con el analisis estructural y semantico del sitio SCIELO, pues es el sitio referente para la construcción de las interfaces, usabilidad, accesibilidad y que el publico de nicho, de alguna manera sienta que se encuentra en un sitio adecuado para sus consultas.
     Descargue Adobe XD para el desarrollo de interfaces, pues es el software que por ahora entiendo o al menos lo suficiente, para generar mockups, wireframes y modelar interfaces para la pagina.
     Identifico que se va a implementar "Material Design" de Google para el desarrollo del EL GUAMALERO, en su versión dark theme para las paginas de contenidos y versión Light para las páginas de secciones.
+    Se crearon los primeros archivos, index.html e index.css y ya empieza a tromar forma. 
+    Inicie con la maquetación del header.
      **************************************************************
     Se creo el repositorio de destino:
     https://github.com/Luiskramirezl/ELGUAMALERO
@@ -96,7 +98,7 @@
 
     *************************************************************************************************
     TAREAS PENDIENTES
-    1. Necesito entender como hacer Git Push y Git Pull desde consola sin usar VSCODE(0%)
+    1. Necesito entender como hacer Git Push y Git Pull desde consola sin usar VSCODE(100%)
     *****************
     DICIEMBRE 9 2021
     *****************
@@ -111,6 +113,8 @@
     DICIEMBRE 13 2021
     *****************
     1.Identifica una tendencia de diseño de interfaces (100%)
+    2. Copia template del portafolio https://github.com/JCARRILO/PORTAFOLIO/blob/main/HTML/index.html como código base para el diseño de EL GUAMALERO.
+    3. Maqueta el Header del index.html y define sus estilos en index.css (10%)
     **************************************************************
     ATAJOS
     ******
